@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>62F90349-A69C-4F11-9E9F-BB2D7D074356</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EF4583EEA5E182C1B87AF805EC78111DFB9663F1</key>
+		<string>https://github.com/rguild/IpadTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IBeacon/BV IBeacon/BV IBeacon.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EF4583EEA5E182C1B87AF805EC78111DFB9663F1</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rguild/IpadTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EF4583EEA5E182C1B87AF805EC78111DFB9663F1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EF4583EEA5E182C1B87AF805EC78111DFB9663F1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IpadTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
